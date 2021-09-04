@@ -1,16 +1,44 @@
-### Hi there 👋
+### Hi there, I'm Oleksii  👋
 
-<!--
-**OleksiiMartseniuk/OleksiiMartseniuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Developer !!
 
-Here are some ideas to get you started:
+- 👯 I want to collaborate with other developers
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love reading and playing basketball.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" tiile="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+
+
+### Skills:
+
+* Python
+* Django
+* Flask
+* SQL
+* Linux (Ubuntu)
+* Bootstrap
+* Git
+* HTML
+* CSS
+* SQL
+  * SQLite
+  * PostgreSQL
+  * MySQL
+
+### Projects:
+* [Quiz Web Application][Quiz_Web_Application]
+* [Shop project][Shop_project]
+* [URL Shortener][URL_Shorfener]
+* [Telegram Bot App Currency][Telegram_bot_app_vlut]
+
+[Telegram_bot_app_vlut]: https://github.com/OleksiiMartseniuk/Telegram_bot_app_vlut
+[Quiz_Web_Application]: https://github.com/OleksiiMartseniuk/Quiz_Web_Application
+[Shop_project]: https://github.com/OleksiiMartseniuk/Shop_project
+[URL_Shorfener]: https://github.com/OleksiiMartseniuk/URL_Shorfener
+[linkedin]: https://www.linkedin.com/in/olekseii-martseniuk-6a8197218/
+
