@@ -19,7 +19,6 @@
 * Python
 * Django
 * Flask
-* SQL
 * Linux (Ubuntu)
 * Bootstrap
 * Git
@@ -35,10 +34,12 @@
 * [Shop project][Shop_project]
 * [URL Shortener][URL_Shorfener]
 * [Telegram Bot App Currency][Telegram_bot_app_vlut]
+* [Platform for online learning][Platform_for_online_learning]
 
 [Telegram_bot_app_vlut]: https://github.com/OleksiiMartseniuk/Telegram_bot_app_vlut
 [Quiz_Web_Application]: https://github.com/OleksiiMartseniuk/Quiz_Web_Application
 [Shop_project]: https://github.com/OleksiiMartseniuk/Shop_project
 [URL_Shorfener]: https://github.com/OleksiiMartseniuk/URL_Shorfener
 [linkedin]: https://www.linkedin.com/in/olekseii-martseniuk-6a8197218/
+[Platform_for_online_learning]: https://github.com/OleksiiMartseniuk/Education
 
