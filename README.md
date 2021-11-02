@@ -18,12 +18,14 @@
 
 * Python
 * Django
+  * Django-rest 
 * Flask
 * Linux (Ubuntu)
 * Bootstrap
 * Git
 * HTML
 * CSS
+* JavaScript
 * SQL
   * SQLite
   * PostgreSQL
@@ -36,6 +38,7 @@
 * [Telegram Bot App Currency][Telegram_bot_app_vlut]
 * [Platform for online learning][Platform_for_online_learning]
 * [Download Youtube][Download_Youtube_link]
+* [Social Network][Social_Network]
 
 [Telegram_bot_app_vlut]: https://github.com/OleksiiMartseniuk/Telegram_bot_app_vlut
 [Quiz_Web_Application]: https://github.com/OleksiiMartseniuk/Quiz_Web_Application
@@ -44,3 +47,4 @@
 [linkedin]: https://www.linkedin.com/in/olekseii-martseniuk-6a8197218/
 [Platform_for_online_learning]: https://github.com/OleksiiMartseniuk/Education
 [Download_Youtube_link]: https://github.com/OleksiiMartseniuk/Download-Youtube
+[Social_Network]: https://github.com/OleksiiMartseniuk/Social-Network
