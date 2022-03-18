@@ -1,50 +1,41 @@
-### Hi there, I'm Oleksii  👋
+### Hi there, I'm Alex  👋
 
 ## Developer !!
 
-- 👯 I want to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love reading and playing basketball.
-
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" tiile="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" tiile="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 <br />
 
 
 
-### Skills:
+### Technology stack
 
-* Python
-* Django
-  * Django-rest 
-* Flask
-* Linux (Ubuntu)
-* Bootstrap
-* Git
-* HTML
-* CSS
-* JavaScript
-* SQL
-  * SQLite
-  * PostgreSQL
-  * MySQL
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
+![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
+![ORMAR](https://img.shields.io/badge/-ORMAR-DD0031?style=flat-square&logo=ORMAR)
+![Peewee](https://img.shields.io/badge/-Peewee-blue?style=flat-square&logo=Peewee)
+![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
+![Tortoise](https://img.shields.io/badge/-Tortoise-green?style=flat-square&logo=Tortoise)
+![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 
-### Projects:
-* [Quiz Web Application][Quiz_Web_Application]
-* [Shop project][Shop_project]
-* [URL Shortener][URL_Shorfener]
-* [Telegram Bot App Currency][Telegram_bot_app_vlut]
-* [Platform for online learning][Platform_for_online_learning]
-* [Download Youtube][Download_Youtube_link]
-* [Social Network][Social_Network]
+**Databases**
 
-[Telegram_bot_app_vlut]: https://github.com/OleksiiMartseniuk/Telegram_bot_app_vlut
-[Quiz_Web_Application]: https://github.com/OleksiiMartseniuk/Quiz_Web_Application
-[Shop_project]: https://github.com/OleksiiMartseniuk/Shop_project
-[URL_Shorfener]: https://github.com/OleksiiMartseniuk/URL_Shorfener
-[linkedin]: https://www.linkedin.com/in/olekseii-martseniuk-6a8197218/
-[Platform_for_online_learning]: https://github.com/OleksiiMartseniuk/Education
-[Download_Youtube_link]: https://github.com/OleksiiMartseniuk/Download-Youtube
-[Social_Network]: https://github.com/OleksiiMartseniuk/Social-Network
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
+
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FCA121?style=flat-square&logo=postman)
+
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
