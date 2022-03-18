@@ -4,10 +4,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" tiile="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+
+<a href="https://www.linkedin.com/in/olekseii-martseniuk-6a8197218/">
+  <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 <br />
-
 
 
 ### Technology stack
